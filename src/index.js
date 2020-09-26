@@ -1,8 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+
+//Primeiro Arquivo aberto pelo react é o index.js
 
 ReactDOM.render(
   <React.StrictMode>
